@@ -1,6 +1,7 @@
 # 🚀 Optimal Control 🎓
 
 Welcome to the Optimal Control  repository! This repository is dedicated to sharing the homework assignments and course materials for the Optimal Control course at K.N. Toosi University of Technology.
+![](1280.jpg)
 
 ## Course Overview 📚
 
